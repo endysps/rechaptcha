@@ -1,12 +1,12 @@
 // file: script.js
 // Initialize Firebase
 var config = {
-  apiKey: "AIzaSyA8iSa0-dFqbnXtCYS_Xc_7kuzulbAjb6U",
+   apiKey: "AIzaSyA8iSa0-dFqbnXtCYS_Xc_7kuzulbAjb6U",
     authDomain: "recapchaassignment.firebaseapp.com",
     databaseURL: "https://recapchaassignment.firebaseio.com",
     projectId: "recapchaassignment",
     storageBucket: "recapchaassignment.appspot.com",
-    messagingSenderId: "158272505941",
+    messagingSenderId: "158272505941"
 };
 firebase.initializeApp(config);
 
