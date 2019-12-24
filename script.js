@@ -7,7 +7,6 @@ var config = {
     projectId: "recapchaassignment",
     storageBucket: "recapchaassignment.appspot.com",
     messagingSenderId: "158272505941",
-    appId: "1:158272505941:web:cebe8376ef12480955ecdc"
 };
 firebase.initializeApp(config);
 
